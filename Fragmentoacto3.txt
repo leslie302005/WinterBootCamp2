@@ -1,0 +1,4 @@
+ Scene I. A room in the Castle
+ Scene II. A hall in the Castle
+ Scene III. A room in the Castle
+ Scene IV. Another room in the Castle
